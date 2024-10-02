@@ -1393,9 +1393,9 @@ a:hover {
     font-weight: 600;
     margin-left: -60px;
     color: black;
-    -webkit-text-fill-color: transparent;
     -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: rgba(0,0,0,0.4);
+    -webkit-text-fill-color: rgba(73,11,62,1);
+    -webkit-text-stroke-color: rgba(73,11,62,1);
     font-family: 'Poppins', sans-serif !important;
 }
 .banner-contentbox .banner-heading2 {
@@ -2444,7 +2444,7 @@ a:hover {
     letter-spacing: 0;
     font-weight: 500;
     text-transform: uppercase;
-    margin-top: -80px;
+    margin-top: -15px;
     margin-bottom: 10px;
     position: relative;
     padding-bottom: 0;
@@ -3127,11 +3127,11 @@ a:hover {
     border-top-right-radius: 20px;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 0;
-    background: rgb(255, 245, 237, 1);
+    background: rgb(251, 206, 3, 0.1);
     position: relative;
     z-index: 9;
     transition: 0.3s ease-in-out;
-    /* box-shadow: 0 0 20px rgba(0,0,0,0.3); */
+    box-shadow: 0 0 20px rgba(0,0,0,0.3);
 }
 .list-box:hover{
     /* background: #fff; */
@@ -3174,7 +3174,7 @@ a:hover {
     height: 80px;
     border-radius: 50%;
     background: #fff;
-    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+    box-shadow: 0 0 20px rgba(0,0,0,0.3);
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -4083,7 +4083,7 @@ a:hover {
 }
 
 .treatment_name a:hover {
-    color: #00acff;
+    color: #fbce03;
     transition: 0.3s linear;
 }
 
