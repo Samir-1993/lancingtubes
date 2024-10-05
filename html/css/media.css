@@ -2067,8 +2067,8 @@
     line-height: 36px;
 }    
 .big-heading1 {
-    font-size: 64px;
-    line-height: 64px;
+    font-size: 50px;
+    line-height: 50px;
     margin-left: 0;
 }    
 .banner-contentbox .banner-heading2 {
@@ -2181,7 +2181,7 @@
 
 .content-heading1 {
     padding-left: 15px;
-    margin-top: -25px;
+    margin-top: 0;
 }    
 /*
 .section1 .content-heading1::after {
