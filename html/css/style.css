@@ -6776,6 +6776,7 @@ a:hover {
     border-radius: 0 !important;
     border: none !important;
     box-shadow: 0 0 15px rgba(0, 0, 0, .125);
+    border: 1px solid #cfcfcf !important;
 }
 .faq_box .accordion-header .accordion-button{
     color: #252525;
